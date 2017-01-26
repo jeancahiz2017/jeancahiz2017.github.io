@@ -472,11 +472,12 @@ h6,
 #ext_menu-2 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header6-9 .mbr-section-title {
-  color: #28262b;
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
 }
-#header6-9 .mbr-section-text {
-  color: #565656;
+#header3-j I {
+  font-size: 48px;
 }
 #ext_menu-5 .hide-buttons .nav-btn {
   display: none !important;
