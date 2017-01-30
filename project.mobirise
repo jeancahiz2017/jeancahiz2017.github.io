@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 39,
+    "uniqCompNum": 41,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -41,7 +41,7 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-11",
+          "_anchor": "header2-14",
           "_params": {
             "imageSize": 50,
             "parallax": true,
@@ -54,7 +54,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.6",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -81,8 +81,28 @@
             }
           },
           "title": "Jean Paul Cahiz",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "text": "Hello my name is Jean Paul Cahiz &nbsp;in the future i would like to work as a car designer or a car mechanic .",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Goals",
+          "meta": ""
         },
         {
           "_name": "footer1",
@@ -134,13 +154,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -159,7 +179,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -201,7 +221,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -214,7 +234,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": true
           },
           "media1": {
@@ -231,23 +251,23 @@
           },
           "title1": "Becom a Soccer player",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Ever since I was a kid I was playing soccer for at least 8 years and wouldn't give up. When I was older I decided to become a soccer player for now.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "xbox",
-              "family": "socicon",
+              "name": "devices",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
               "size": 0,
               "color": "#000000"
             }
           },
-          "title2": "Work with Xbox",
+          "title2": "Work with Treyarch",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Ever since I was playing with video games on Xbox I would like to work with video games. When I played Treyarch games like black ops 3 and how it was futuristic I would like to work with Treyarch and help them design a game and create new thing in the game like characters, movements, weapons, ability, and maps.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -263,7 +283,7 @@
           },
           "title3": "Become a car mechanic",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "A car mechanic was a dream for mine when I saw my dad’s friend work as a car mechanic I saw how he built the cars, make an engine for the car, etc. Especially when he tries out a new engine it sounds amazing and loud, it would also be cool to work with cars. ",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -279,7 +299,7 @@
           },
           "title4": "Become a car designer",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Building cars and being a car mechanic sounds cool but I really want to be a car designer. I like how cars look and how it is and I would like to draw out the next future car.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
