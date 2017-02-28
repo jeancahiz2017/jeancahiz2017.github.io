@@ -1308,8 +1308,8 @@
           "_anchor": "msg-box6-2s",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "5",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1449130015084-2d48a345ae62-2000x1328-2.jpg",
