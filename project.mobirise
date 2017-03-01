@@ -29,7 +29,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Jean Cahiz",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1246,7 +1246,7 @@
     },
     "page5.html": {
       "settings": {
-        "title": "",
+        "title": "Jean Cahiz",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1268,7 +1268,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "",
@@ -1312,7 +1312,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1449130015084-2d48a345ae62-2000x1328-2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1320,7 +1320,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -1346,7 +1346,7 @@
             }
           },
           "title": "Biography",
-          "text": " My name is Jean Paul Cahiz  and cars are my life I would like to build a car and design a car in the future. I always liked <br><br>",
+          "text": " My name is Jean Paul Cahiz  and cars are my life I would like to build a car and design a car in the future. I always liked car since i was a kid. I would like to design the new future car or be a car mechanic.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"page5.html#content7-38\" data-toolbar=\"-mbrBtnMove\">MORE</a> "
         },
         {
