@@ -52,7 +52,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         },
         {
           "_inherit": "menu",
@@ -274,7 +274,7 @@
           },
           "title": "Video: Jean Paul Cahiz",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -308,7 +308,7 @@
           "_name": "header3",
           "_anchor": "header3-30",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#b7b7b7",
             "showMeta": false
@@ -539,7 +539,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         },
         {
           "_inherit": "menu",
@@ -1014,7 +1014,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         },
         {
           "_inherit": "menu",
@@ -1222,7 +1222,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         },
         {
           "_inherit": "menu",
@@ -1534,7 +1534,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         },
         {
           "_inherit": "menu",
@@ -1865,7 +1865,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "Copyright (c) 2017 Mobirise."
         },
         {
           "_inherit": "menu",
